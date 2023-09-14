@@ -6,7 +6,8 @@
  * Return: On success 1
  * On error, -1 is returned
  */
-int _isdigit(int c)
+int mul(int a, int b)
 {
-        return (1);
+        return (0);
 }
+
