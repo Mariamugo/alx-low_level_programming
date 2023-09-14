@@ -6,7 +6,9 @@
  * Return: On sucess 1
  * On error, -1 is returned
  */
-void print_numbers(void)
+int main(void)
 {
-        return (0);
+void print_most_numbers(void);
+return (0);
 }
+
