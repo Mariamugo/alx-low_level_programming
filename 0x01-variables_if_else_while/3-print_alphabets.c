@@ -5,6 +5,7 @@
  * Program written by Maria
  * Reurn: 0; program will be a success
  */
+
 int main(void)
 {
 	char a = 'a';
