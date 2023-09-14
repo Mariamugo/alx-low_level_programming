@@ -3,7 +3,7 @@
 /**
  * main - Entry Point
  *
- * Return 1 if c is a digit 
+ * Return 1 if c is a digit
  * otherwise return 0
  */
 int _isdigit(int c)
