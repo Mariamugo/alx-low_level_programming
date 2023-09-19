@@ -2,8 +2,6 @@
 /**
 *_puts - prints a string
 *@str: A pointer to an int that will be changed
-*@c: character
-*Return: void which means our answer is correct
 */
 
 void _puts(char *str)
