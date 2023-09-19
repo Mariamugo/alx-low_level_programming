@@ -2,6 +2,7 @@
 
 /**
  *_strlen -length of a string
+ *@s: string
  *Return: void that means our answer is correct
  */
 
