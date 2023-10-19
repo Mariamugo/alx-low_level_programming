@@ -1,2 +1,2 @@
 #!/bin/bash
-this is for CPL projects
+this is for singly linked links projects
