@@ -1,7 +1,15 @@
 #include "main.h"
 
+/**
+ * _puts - functions prints a string on stdout
+ * return 0
+ */
+
 int main(void)
 {
-	    _puts("\"At the end of the day, my goal was to be the best hacker\"\n\t- Kevin Mitnick");
-	        return (0);
+	void _puts(char *str);
+
+	_puts("\"At the end of the day, my goal was to be the best hacker\"\n\t- Kevin Mitnick");
+	
+	return (0);
 }
