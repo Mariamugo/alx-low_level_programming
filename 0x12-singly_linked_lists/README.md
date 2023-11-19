@@ -1,4 +1,4 @@
-this directory is on all files created for the singly linked lists. 
+this directory is on all files created for the singly linked lists
 they include:
 
 task 0 - prints all the elements of a list
