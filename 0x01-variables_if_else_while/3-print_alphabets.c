@@ -2,8 +2,8 @@
 
 /**
  * main - Program prints alphabetical letters in lowercase then in uppercase
- * Program written by Maria
- * Reurn: 0; program will be a success
+ *
+ * Return: always 0
  */
 
 int main(void)
@@ -13,13 +13,13 @@ int main(void)
 
 	while (a <= 'z')
 	{
-		putchar (a);
+		putchar(a);
 		a++;
 	}
 
 	while (A <= 'Z')
 	{
-		putchar (A);
+		putchar(A);
 		A++;
 	}
 
