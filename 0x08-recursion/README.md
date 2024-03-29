@@ -1,3 +1,3 @@
 #!/bin/bash
-This file introduces us to recursive functions
+This directory introduces us to recursive functions
 
