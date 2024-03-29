@@ -2,7 +2,7 @@
 /*
  * _puts_recursion - prints a string
  * @*s: argument taken by the function, equals 1 byte
- * return void
+ * Return: void
  */
 
 void _puts_recursion(char *s)
