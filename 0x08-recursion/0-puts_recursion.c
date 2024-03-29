@@ -1,7 +1,6 @@
 #include "main.h"
 /*
- * this function prints a string followed by a new line
- * _puts_recursion - the function prototype
+ * _puts_recursion - prints a string
  * @*s - argument taken by the function, equals 1 byte
  * return void
  */
