@@ -1,13 +1,13 @@
 #include "main.h"
 /*
  * _puts_recursion - prints a string
- * @*s: argument taken by the function, equals 1 byte
+ * @s: argument taken by the function, equals 1 byte
  * Return: void
  */
 
 void _puts_recursion(char *s)
 {
-	/*the basecase/terminating statement*/
+
 	if (*s == '\0')
 	{
 		_putchar('\n');
