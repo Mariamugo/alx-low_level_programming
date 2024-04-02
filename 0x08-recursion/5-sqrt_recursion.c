@@ -10,7 +10,7 @@ int _sqrt_recursion(int n)
 	{
 		return (-1);
 	}
-	else if (n == 0 OR n == 1)
+	else if (n == 0) OR (n == 1)
 	{
 		return (n);
 	}
@@ -27,7 +27,7 @@ int _sqrt_recursion(int n)
  */
 int real_sqrt_recursion(int m, int n)
 {
-	int m = 1;
+	m = 1;
 
 	if (m * m < n)
 	{
