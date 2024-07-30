@@ -4,7 +4,7 @@
  * @n: integer argument passed to the function
  * Return: 0
  */
-int check_prime_numbe(int n, int i);
+int check_prime_number(int n, int i);
 
 int is_prime_number(int n)
 {
